@@ -1,0 +1,6 @@
+{
+  "name": "SmenaGo — Поиск и публикация смен в ресторанах",
+  "description": "Мобильное приложение для быстрого поиска и публикации ресторанных смен: гибкий график, прозрачные ставки и подтверждение в один клик.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
